@@ -1,0 +1,8 @@
+test,perturbation,result,passed
+KT1,Drop top-2 quarterly folds (2021Q3 & 2022Q1),"fold-mean +3.45% -> +2.75%, folds+ 83.3%; event-level spread +2.62%",True
+KT2,Drop 2021,"spread +2.88%, p=7.9e-07",True
+KT3,Mid + Large caps only,"spread +2.19%, p=0.0017",True
+KT4,Exclude Layer-4-seen events,"spread +3.05%, folds+ 85.0%",True
+KT5,1.000% round-trip cost (portfolio),"full excess +4.06%, HOLDOUT excess -0.88%",False
+KT6,8Q / expanding threshold windows,"8Q +2.91%, expanding +2.83%",True
+KT7,Horizon jitter 40d / 90d,"40d +1.82%, 90d +3.92%",True

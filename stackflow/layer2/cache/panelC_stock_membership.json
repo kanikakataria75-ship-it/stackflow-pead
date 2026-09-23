@@ -1,0 +1,1645 @@
+{
+ "union": [
+  "AADHARHFC",
+  "AARTIIND",
+  "AAVAS",
+  "ABB",
+  "ABBOTINDIA",
+  "ABFRL",
+  "ABLBL",
+  "ABREL",
+  "ACC",
+  "ACMESOLAR",
+  "ADANIENSOL",
+  "ADANIENT",
+  "ADANIGREEN",
+  "ADANIPORTS",
+  "ADANIPOWER",
+  "AEGISLOG",
+  "AEGISVOPAK",
+  "AFCONS",
+  "AGARWALEYE",
+  "AHLUCONT",
+  "AIAENG",
+  "AIIL",
+  "ALKEM",
+  "AMBER",
+  "AMBUJACEM",
+  "ANANTRAJ",
+  "APARINDS",
+  "APLAPOLLO",
+  "APOLLOHOSP",
+  "APTUS",
+  "ARVINDFASN",
+  "ASHOKA",
+  "ASHOKLEY",
+  "ASTERDM",
+  "ASTRAL",
+  "ASTRAMICRO",
+  "ATGL",
+  "ATUL",
+  "AUBANK",
+  "AUROPHARMA",
+  "AVL",
+  "AWFIS",
+  "AXISBANK",
+  "BAJAJ-AUTO",
+  "BAJAJHFL",
+  "BAJFINANCE",
+  "BANKBARODA",
+  "BANKINDIA",
+  "BATAINDIA",
+  "BAYERCROP",
+  "BDL",
+  "BEL",
+  "BEML",
+  "BHARATFORG",
+  "BHARTIARTL",
+  "BHARTIHEXA",
+  "BHEL",
+  "BIOCON",
+  "BIRLACORPN",
+  "BLACKBUCK",
+  "BLS",
+  "BLUEDART",
+  "BLUESTARCO",
+  "BOSCHLTD",
+  "BPCL",
+  "BRIGADE",
+  "BRITANNIA",
+  "CANBK",
+  "CANFINHOME",
+  "CANHLIFE",
+  "CARBORUNIV",
+  "CARTRADE",
+  "CASTROLIND",
+  "CEMPRO",
+  "CENTRALBK",
+  "CESC",
+  "CGCL",
+  "CGPOWER",
+  "CHALET",
+  "CHAMBLFERT",
+  "CHENNPETRO",
+  "CHOLAFIN",
+  "CIPLA",
+  "CMSINFO",
+  "COCHINSHIP",
+  "COFORGE",
+  "COLPAL",
+  "CONCOR",
+  "COROMANDEL",
+  "CRIZAC",
+  "CROMPTON",
+  "CUMMINSIND",
+  "DABUR",
+  "DALBHARAT",
+  "DATAPATTNS",
+  "DBCORP",
+  "DBL",
+  "DEEPAKNTR",
+  "DELHIVERY",
+  "DEVYANI",
+  "DIVISLAB",
+  "DIXON",
+  "DLF",
+  "DMART",
+  "DRREDDY",
+  "ECLERX",
+  "EICHERMOT",
+  "EIDPARRY",
+  "EIHOTEL",
+  "ELGIEQUIP",
+  "EMAMILTD",
+  "EMIL",
+  "ENGINERSIN",
+  "ENRIN",
+  "ENTERO",
+  "ESCORTS",
+  "ETERNAL",
+  "EXIDEIND",
+  "FEDERALBNK",
+  "FEDFINA",
+  "FINCABLES",
+  "FINPIPE",
+  "FIRSTCRY",
+  "FIVESTAR",
+  "FLUOROCHEM",
+  "FORTIS",
+  "FSL",
+  "GAIL",
+  "GESHIP",
+  "GICRE",
+  "GLENMARK",
+  "GMRAIRPORT",
+  "GMRP&UI",
+  "GNFC",
+  "GODIGIT",
+  "GODREJCP",
+  "GODREJPROP",
+  "GPPL",
+  "GRASIM",
+  "GRSE",
+  "GVT&D",
+  "HAL",
+  "HATHWAY",
+  "HAVELLS",
+  "HBLENGINE",
+  "HCC",
+  "HCG",
+  "HCLTECH",
+  "HDBFS",
+  "HDFCBANK",
+  "HDFCLIFE",
+  "HEMIPROP",
+  "HEROMOTOCO",
+  "HFCL",
+  "HGINFRA",
+  "HINDALCO",
+  "HINDCOPPER",
+  "HINDPETRO",
+  "HINDUNILVR",
+  "HINDZINC",
+  "HOMEFIRST",
+  "HONAUT",
+  "HSCL",
+  "ICICIBANK",
+  "ICICIGI",
+  "ICICIPRULI",
+  "IDEA",
+  "IDFCFIRSTB",
+  "IGIL",
+  "IGL",
+  "IIFL",
+  "INDHOTEL",
+  "INDIACEM",
+  "INDIAMART",
+  "INDIANB",
+  "INDIASHLTR",
+  "INDIGO",
+  "INDUSINDBK",
+  "INDUSTOWER",
+  "INFY",
+  "INOXGREEN",
+  "INOXWIND",
+  "IOB",
+  "IOC",
+  "IPCALAB",
+  "IRB",
+  "IRCON",
+  "IRCTC",
+  "ITC",
+  "ITCHOTELS",
+  "ITI",
+  "IXIGO",
+  "JINDALSTEL",
+  "JKCEMENT",
+  "JKLAKSHMI",
+  "JLHL",
+  "JPPOWER",
+  "JSL",
+  "JSLL",
+  "JSWCEMENT",
+  "JSWENERGY",
+  "JSWINFRA",
+  "JSWSTEEL",
+  "JUBLFOOD",
+  "JUSTDIAL",
+  "JYOTICNC",
+  "KAJARIACER",
+  "KALYANKJIL",
+  "KAYNES",
+  "KEC",
+  "KEI",
+  "KIMS",
+  "KIRLOSENG",
+  "KNRCON",
+  "KOTAKBANK",
+  "KPIGREEN",
+  "KPIL",
+  "LAURUSLABS",
+  "LEMONTREE",
+  "LENSKART",
+  "LGEINDIA",
+  "LICHSGFIN",
+  "LICI",
+  "LINDEINDIA",
+  "LLOYDSME",
+  "LODHA",
+  "LT",
+  "LTF",
+  "LTM",
+  "LUPIN",
+  "M&M",
+  "M&MFIN",
+  "MAHABANK",
+  "MANAPPURAM",
+  "MANKIND",
+  "MANYAVAR",
+  "MARICO",
+  "MARUTI",
+  "MAXHEALTH",
+  "MAZDOCK",
+  "MEDANTA",
+  "MEDPLUS",
+  "MEESHO",
+  "MFSL",
+  "MGL",
+  "MMTC",
+  "MOTHERSON",
+  "MPHASIS",
+  "MSTCLTD",
+  "MUTHOOTFIN",
+  "NATIONALUM",
+  "NAUKRI",
+  "NAVA",
+  "NAVINFLUOR",
+  "NAZARA",
+  "NBCC",
+  "NCC",
+  "NESCO",
+  "NESTLEIND",
+  "NETWORK18",
+  "NH",
+  "NHPC",
+  "NIACL",
+  "NIVABUPA",
+  "NLCINDIA",
+  "NMDC",
+  "NTPC",
+  "NTPCGREEN",
+  "NUVOCO",
+  "NYKAA",
+  "OBEROIRLTY",
+  "OFSS",
+  "OIL",
+  "ONGC",
+  "OPTIEMUS",
+  "ORIENTCEM",
+  "PARKHOSPS",
+  "PATANJALI",
+  "PCBL",
+  "PERSISTENT",
+  "PETRONET",
+  "PFOCUS",
+  "PGEL",
+  "PHOENIXLTD",
+  "PIDILITIND",
+  "PIIND",
+  "PIRAMALFIN",
+  "PNB",
+  "PNBHOUSING",
+  "PNCINFRA",
+  "POLYCAB",
+  "POONAWALLA",
+  "POWERGRID",
+  "POWERINDIA",
+  "POWERMECH",
+  "PPLPHARMA",
+  "PRAJIND",
+  "PREMIERENE",
+  "PRESTIGE",
+  "PRSMJOHNSN",
+  "PSB",
+  "PTC",
+  "PTCIL",
+  "PVRINOX",
+  "PWL",
+  "QUESS",
+  "RADICO",
+  "RAILTEL",
+  "RAINBOW",
+  "RAMCOCEM",
+  "RBA",
+  "REDINGTON",
+  "RELIANCE",
+  "RITES",
+  "ROUTE",
+  "RPOWER",
+  "RTNINDIA",
+  "RTNPOWER",
+  "RVNL",
+  "SAIL",
+  "SAMHI",
+  "SAMMAANCAP",
+  "SAPPHIRE",
+  "SAREGAMA",
+  "SBFC",
+  "SBICARD",
+  "SBILIFE",
+  "SBIN",
+  "SCI",
+  "SHREECEM",
+  "SHRIRAMFIN",
+  "SIEMENS",
+  "SJVN",
+  "SMARTWORKS",
+  "SOBHA",
+  "SOLARINDS",
+  "SONACOMS",
+  "SRF",
+  "STARCEMENT",
+  "STARHEALTH",
+  "STLTECH",
+  "SUMICHEM",
+  "SUNDARMFIN",
+  "SUNPHARMA",
+  "SUNTV",
+  "SUPREMEIND",
+  "SUZLON",
+  "SWIGGY",
+  "SWSOLAR",
+  "SYNGENE",
+  "TATACAP",
+  "TATACHEM",
+  "TATACOMM",
+  "TATACONSUM",
+  "TATAPOWER",
+  "TATASTEEL",
+  "TBOTEK",
+  "TCS",
+  "TDPOWERSYS",
+  "TECHM",
+  "TECHNOE",
+  "TEJASNET",
+  "THELEELA",
+  "THERMAX",
+  "THOMASCOOK",
+  "TIINDIA",
+  "TIMKEN",
+  "TIPSMUSIC",
+  "TITAGARH",
+  "TITAN",
+  "TMCV",
+  "TMPV",
+  "TORNTPHARM",
+  "TORNTPOWER",
+  "TRAVELFOOD",
+  "TRENT",
+  "TRITURBINE",
+  "TTML",
+  "TVSMOTOR",
+  "TVSSCS",
+  "UBL",
+  "UCOBANK",
+  "ULTRACEMCO",
+  "UNIONBANK",
+  "UNITDSPR",
+  "UNOMINDA",
+  "UPL",
+  "URBANCO",
+  "USHAMART",
+  "V2RETAIL",
+  "VBL",
+  "VEDL",
+  "VMART",
+  "VMM",
+  "VOLTAMP",
+  "VOLTAS",
+  "WAAREEENER",
+  "WELCORP",
+  "WELENT",
+  "WESTLIFE",
+  "WEWORK",
+  "WHIRLPOOL",
+  "WIPRO",
+  "YATHARTH",
+  "YESBANK",
+  "ZEEL",
+  "ZYDUSLIFE"
+ ],
+ "membership": {
+  "OFSS": [
+   "NIFTY IT"
+  ],
+  "WIPRO": [
+   "NIFTY IT"
+  ],
+  "TECHM": [
+   "NIFTY IT"
+  ],
+  "LTM": [
+   "NIFTY IT"
+  ],
+  "TCS": [
+   "NIFTY IT"
+  ],
+  "HCLTECH": [
+   "NIFTY IT"
+  ],
+  "PERSISTENT": [
+   "NIFTY IT"
+  ],
+  "COFORGE": [
+   "NIFTY IT"
+  ],
+  "MPHASIS": [
+   "NIFTY IT"
+  ],
+  "INFY": [
+   "NIFTY IT"
+  ],
+  "NESTLEIND": [
+   "NIFTY FMCG"
+  ],
+  "ITC": [
+   "NIFTY FMCG"
+  ],
+  "COLPAL": [
+   "NIFTY FMCG"
+  ],
+  "MARICO": [
+   "NIFTY FMCG"
+  ],
+  "VBL": [
+   "NIFTY FMCG"
+  ],
+  "TATACONSUM": [
+   "NIFTY FMCG"
+  ],
+  "UNITDSPR": [
+   "NIFTY FMCG"
+  ],
+  "BRITANNIA": [
+   "NIFTY FMCG"
+  ],
+  "GODREJCP": [
+   "NIFTY FMCG"
+  ],
+  "RADICO": [
+   "NIFTY FMCG"
+  ],
+  "PATANJALI": [
+   "NIFTY FMCG"
+  ],
+  "DABUR": [
+   "NIFTY FMCG"
+  ],
+  "UBL": [
+   "NIFTY FMCG"
+  ],
+  "HINDUNILVR": [
+   "NIFTY FMCG"
+  ],
+  "EMAMILTD": [
+   "NIFTY FMCG"
+  ],
+  "PNB": [
+   "NIFTY BANK",
+   "NIFTY PSU BANK"
+  ],
+  "HDFCBANK": [
+   "NIFTY BANK"
+  ],
+  "IDFCFIRSTB": [
+   "NIFTY BANK"
+  ],
+  "AXISBANK": [
+   "NIFTY BANK"
+  ],
+  "KOTAKBANK": [
+   "NIFTY BANK"
+  ],
+  "UNIONBANK": [
+   "NIFTY BANK",
+   "NIFTY PSU BANK"
+  ],
+  "CANBK": [
+   "NIFTY BANK",
+   "NIFTY PSU BANK"
+  ],
+  "YESBANK": [
+   "NIFTY BANK"
+  ],
+  "AUBANK": [
+   "NIFTY BANK"
+  ],
+  "SBIN": [
+   "NIFTY BANK",
+   "NIFTY PSU BANK"
+  ],
+  "ICICIBANK": [
+   "NIFTY BANK"
+  ],
+  "INDUSINDBK": [
+   "NIFTY BANK"
+  ],
+  "BANKBARODA": [
+   "NIFTY BANK",
+   "NIFTY PSU BANK"
+  ],
+  "FEDERALBNK": [
+   "NIFTY BANK"
+  ],
+  "BOSCHLTD": [
+   "NIFTY AUTO"
+  ],
+  "HEROMOTOCO": [
+   "NIFTY AUTO"
+  ],
+  "MOTHERSON": [
+   "NIFTY AUTO"
+  ],
+  "TIINDIA": [
+   "NIFTY AUTO"
+  ],
+  "ASHOKLEY": [
+   "NIFTY AUTO",
+   "NIFTY CAPITAL GOODS"
+  ],
+  "EXIDEIND": [
+   "NIFTY AUTO"
+  ],
+  "UNOMINDA": [
+   "NIFTY AUTO"
+  ],
+  "BAJAJ-AUTO": [
+   "NIFTY AUTO"
+  ],
+  "MARUTI": [
+   "NIFTY AUTO"
+  ],
+  "TVSMOTOR": [
+   "NIFTY AUTO"
+  ],
+  "SONACOMS": [
+   "NIFTY AUTO"
+  ],
+  "BHARATFORG": [
+   "NIFTY AUTO"
+  ],
+  "M&M": [
+   "NIFTY AUTO"
+  ],
+  "EICHERMOT": [
+   "NIFTY AUTO"
+  ],
+  "TMPV": [
+   "NIFTY AUTO"
+  ],
+  "NMDC": [
+   "NIFTY METAL"
+  ],
+  "JINDALSTEL": [
+   "NIFTY METAL"
+  ],
+  "VEDL": [
+   "NIFTY METAL"
+  ],
+  "SAIL": [
+   "NIFTY METAL"
+  ],
+  "JSL": [
+   "NIFTY METAL"
+  ],
+  "JSWSTEEL": [
+   "NIFTY METAL"
+  ],
+  "HINDZINC": [
+   "NIFTY METAL"
+  ],
+  "WELCORP": [
+   "NIFTY METAL",
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TATASTEEL": [
+   "NIFTY METAL"
+  ],
+  "NATIONALUM": [
+   "NIFTY METAL"
+  ],
+  "HINDALCO": [
+   "NIFTY METAL"
+  ],
+  "APLAPOLLO": [
+   "NIFTY METAL",
+   "NIFTY CAPITAL GOODS"
+  ],
+  "LLOYDSME": [
+   "NIFTY METAL"
+  ],
+  "HINDCOPPER": [
+   "NIFTY METAL"
+  ],
+  "ADANIENT": [
+   "NIFTY METAL"
+  ],
+  "CENTRALBK": [
+   "NIFTY PSU BANK"
+  ],
+  "UCOBANK": [
+   "NIFTY PSU BANK"
+  ],
+  "MAHABANK": [
+   "NIFTY PSU BANK"
+  ],
+  "PSB": [
+   "NIFTY PSU BANK"
+  ],
+  "BANKINDIA": [
+   "NIFTY PSU BANK"
+  ],
+  "INDIANB": [
+   "NIFTY PSU BANK"
+  ],
+  "IOB": [
+   "NIFTY PSU BANK"
+  ],
+  "KEI": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "POLYCAB": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "KAYNES": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TRITURBINE": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TDPOWERSYS": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "MAZDOCK": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "HAL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "POWERINDIA": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "HONAUT": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "VOLTAMP": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "CGPOWER": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ASTRAL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "SUZLON": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "INOXWIND": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "CARBORUNIV": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "KIRLOSENG": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TIMKEN": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "BEML": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "PRAJIND": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ESCORTS": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "WAAREEENER": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "GVT&D": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ASTRAMICRO": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "USHAMART": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "COCHINSHIP": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "SUPREMEIND": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "PREMIERENE": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ENRIN": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "HBLENGINE": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "SIEMENS": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "AIAENG": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "BDL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ABB": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TMCV": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "GRSE": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "BHEL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "TITAGARH": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "APARINDS": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "CUMMINSIND": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "THERMAX": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "DATAPATTNS": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "FINCABLES": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "JYOTICNC": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "PTCIL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "BEL": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "FINPIPE": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ELGIEQUIP": [
+   "NIFTY CAPITAL GOODS"
+  ],
+  "ORIENTCEM": [
+   "NIFTY CEMENT"
+  ],
+  "JKCEMENT": [
+   "NIFTY CEMENT"
+  ],
+  "ULTRACEMCO": [
+   "NIFTY CEMENT"
+  ],
+  "STARCEMENT": [
+   "NIFTY CEMENT"
+  ],
+  "GRASIM": [
+   "NIFTY CEMENT"
+  ],
+  "BIRLACORPN": [
+   "NIFTY CEMENT"
+  ],
+  "ACC": [
+   "NIFTY CEMENT"
+  ],
+  "SHREECEM": [
+   "NIFTY CEMENT"
+  ],
+  "JSWCEMENT": [
+   "NIFTY CEMENT"
+  ],
+  "PRSMJOHNSN": [
+   "NIFTY CEMENT"
+  ],
+  "JKLAKSHMI": [
+   "NIFTY CEMENT"
+  ],
+  "NUVOCO": [
+   "NIFTY CEMENT"
+  ],
+  "RAMCOCEM": [
+   "NIFTY CEMENT"
+  ],
+  "INDIACEM": [
+   "NIFTY CEMENT"
+  ],
+  "AMBUJACEM": [
+   "NIFTY CEMENT"
+  ],
+  "DALBHARAT": [
+   "NIFTY CEMENT"
+  ],
+  "DEEPAKNTR": [
+   "NIFTY CHEMICALS"
+  ],
+  "PIDILITIND": [
+   "NIFTY CHEMICALS"
+  ],
+  "UPL": [
+   "NIFTY CHEMICALS"
+  ],
+  "LINDEINDIA": [
+   "NIFTY CHEMICALS"
+  ],
+  "AARTIIND": [
+   "NIFTY CHEMICALS"
+  ],
+  "ATUL": [
+   "NIFTY CHEMICALS"
+  ],
+  "FLUOROCHEM": [
+   "NIFTY CHEMICALS"
+  ],
+  "TATACHEM": [
+   "NIFTY CHEMICALS"
+  ],
+  "EIDPARRY": [
+   "NIFTY CHEMICALS"
+  ],
+  "SUMICHEM": [
+   "NIFTY CHEMICALS"
+  ],
+  "SOLARINDS": [
+   "NIFTY CHEMICALS"
+  ],
+  "BAYERCROP": [
+   "NIFTY CHEMICALS"
+  ],
+  "SRF": [
+   "NIFTY CHEMICALS"
+  ],
+  "CHAMBLFERT": [
+   "NIFTY CHEMICALS"
+  ],
+  "NAVINFLUOR": [
+   "NIFTY CHEMICALS"
+  ],
+  "COROMANDEL": [
+   "NIFTY CHEMICALS"
+  ],
+  "PCBL": [
+   "NIFTY CHEMICALS"
+  ],
+  "PIIND": [
+   "NIFTY CHEMICALS"
+  ],
+  "GNFC": [
+   "NIFTY CHEMICALS"
+  ],
+  "HSCL": [
+   "NIFTY CHEMICALS"
+  ],
+  "NESCO": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "BLACKBUCK": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "FSL": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "MSTCLTD": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "CONCOR": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "AWFIS": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "IGIL": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "ADANIPORTS": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "CMSINFO": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "REDINGTON": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "WEWORK": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "BLUEDART": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "MMTC": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "SCI": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "TVSSCS": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "SMARTWORKS": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "JSWINFRA": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "DELHIVERY": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "INDIGO": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "INOXGREEN": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "ECLERX": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "HEMIPROP": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "GESHIP": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "GMRAIRPORT": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "QUESS": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "GPPL": [
+   "NIFTY COMMERCIAL & TRANSPORT SERVICES"
+  ],
+  "ASHOKA": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "SWSOLAR": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "IRCON": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "TECHNOE": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "KEC": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "AHLUCONT": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "LT": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "RITES": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "WELENT": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "HCC": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "KNRCON": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "NCC": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "ENGINERSIN": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "KPIL": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "NBCC": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "HGINFRA": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "RVNL": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "PNCINFRA": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "AFCONS": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "DBL": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "IRB": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "POWERMECH": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "CEMPRO": [
+   "NIFTY CONSTRUCTION"
+  ],
+  "HAVELLS": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "KALYANKJIL": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "VOLTAS": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "CROMPTON": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "KAJARIACER": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "PGEL": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "BATAINDIA": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "LGEINDIA": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "WHIRLPOOL": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "BLUESTARCO": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "DIXON": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "AMBER": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "TITAN": [
+   "NIFTY CONSUMER DURABLES"
+  ],
+  "APOLLOHOSP": [
+   "NIFTY HEALTHCARE",
+   "NIFTY HOSPITALS"
+  ],
+  "LAURUSLABS": [
+   "NIFTY HEALTHCARE"
+  ],
+  "TORNTPHARM": [
+   "NIFTY HEALTHCARE"
+  ],
+  "LUPIN": [
+   "NIFTY HEALTHCARE"
+  ],
+  "DRREDDY": [
+   "NIFTY HEALTHCARE"
+  ],
+  "ALKEM": [
+   "NIFTY HEALTHCARE"
+  ],
+  "MANKIND": [
+   "NIFTY HEALTHCARE"
+  ],
+  "FORTIS": [
+   "NIFTY HEALTHCARE",
+   "NIFTY HOSPITALS"
+  ],
+  "MAXHEALTH": [
+   "NIFTY HEALTHCARE",
+   "NIFTY HOSPITALS"
+  ],
+  "PPLPHARMA": [
+   "NIFTY HEALTHCARE"
+  ],
+  "SYNGENE": [
+   "NIFTY HEALTHCARE"
+  ],
+  "AUROPHARMA": [
+   "NIFTY HEALTHCARE"
+  ],
+  "BIOCON": [
+   "NIFTY HEALTHCARE"
+  ],
+  "DIVISLAB": [
+   "NIFTY HEALTHCARE"
+  ],
+  "IPCALAB": [
+   "NIFTY HEALTHCARE"
+  ],
+  "ABBOTINDIA": [
+   "NIFTY HEALTHCARE"
+  ],
+  "SUNPHARMA": [
+   "NIFTY HEALTHCARE"
+  ],
+  "ZYDUSLIFE": [
+   "NIFTY HEALTHCARE"
+  ],
+  "CIPLA": [
+   "NIFTY HEALTHCARE"
+  ],
+  "GLENMARK": [
+   "NIFTY HEALTHCARE"
+  ],
+  "PIRAMALFIN": [
+   "NIFTY NBFC"
+  ],
+  "POONAWALLA": [
+   "NIFTY NBFC"
+  ],
+  "MANAPPURAM": [
+   "NIFTY NBFC"
+  ],
+  "SUNDARMFIN": [
+   "NIFTY NBFC"
+  ],
+  "LTF": [
+   "NIFTY NBFC"
+  ],
+  "SBICARD": [
+   "NIFTY NBFC"
+  ],
+  "CHOLAFIN": [
+   "NIFTY NBFC"
+  ],
+  "CGCL": [
+   "NIFTY NBFC"
+  ],
+  "SHRIRAMFIN": [
+   "NIFTY NBFC"
+  ],
+  "FIVESTAR": [
+   "NIFTY NBFC"
+  ],
+  "FEDFINA": [
+   "NIFTY NBFC"
+  ],
+  "TATACAP": [
+   "NIFTY NBFC"
+  ],
+  "AIIL": [
+   "NIFTY NBFC"
+  ],
+  "BAJFINANCE": [
+   "NIFTY NBFC"
+  ],
+  "HDBFS": [
+   "NIFTY NBFC"
+  ],
+  "MUTHOOTFIN": [
+   "NIFTY NBFC"
+  ],
+  "SBFC": [
+   "NIFTY NBFC"
+  ],
+  "M&MFIN": [
+   "NIFTY NBFC"
+  ],
+  "IIFL": [
+   "NIFTY NBFC"
+  ],
+  "ATGL": [
+   "NIFTY OIL & GAS"
+  ],
+  "CASTROLIND": [
+   "NIFTY OIL & GAS"
+  ],
+  "GAIL": [
+   "NIFTY OIL & GAS"
+  ],
+  "BPCL": [
+   "NIFTY OIL & GAS"
+  ],
+  "AEGISLOG": [
+   "NIFTY OIL & GAS"
+  ],
+  "IOC": [
+   "NIFTY OIL & GAS"
+  ],
+  "OIL": [
+   "NIFTY OIL & GAS"
+  ],
+  "PETRONET": [
+   "NIFTY OIL & GAS"
+  ],
+  "RELIANCE": [
+   "NIFTY OIL & GAS"
+  ],
+  "AEGISVOPAK": [
+   "NIFTY OIL & GAS"
+  ],
+  "HINDPETRO": [
+   "NIFTY OIL & GAS"
+  ],
+  "ONGC": [
+   "NIFTY OIL & GAS"
+  ],
+  "IGL": [
+   "NIFTY OIL & GAS"
+  ],
+  "MGL": [
+   "NIFTY OIL & GAS"
+  ],
+  "CHENNPETRO": [
+   "NIFTY OIL & GAS"
+  ],
+  "ADANIENSOL": [
+   "NIFTY POWER"
+  ],
+  "KPIGREEN": [
+   "NIFTY POWER"
+  ],
+  "NTPCGREEN": [
+   "NIFTY POWER"
+  ],
+  "GMRP&UI": [
+   "NIFTY POWER"
+  ],
+  "ADANIPOWER": [
+   "NIFTY POWER"
+  ],
+  "JPPOWER": [
+   "NIFTY POWER"
+  ],
+  "ADANIGREEN": [
+   "NIFTY POWER"
+  ],
+  "NTPC": [
+   "NIFTY POWER"
+  ],
+  "ACMESOLAR": [
+   "NIFTY POWER"
+  ],
+  "RPOWER": [
+   "NIFTY POWER"
+  ],
+  "POWERGRID": [
+   "NIFTY POWER"
+  ],
+  "PTC": [
+   "NIFTY POWER"
+  ],
+  "NAVA": [
+   "NIFTY POWER"
+  ],
+  "TATAPOWER": [
+   "NIFTY POWER"
+  ],
+  "JSWENERGY": [
+   "NIFTY POWER"
+  ],
+  "RTNPOWER": [
+   "NIFTY POWER"
+  ],
+  "CESC": [
+   "NIFTY POWER"
+  ],
+  "SJVN": [
+   "NIFTY POWER"
+  ],
+  "NHPC": [
+   "NIFTY POWER"
+  ],
+  "TORNTPOWER": [
+   "NIFTY POWER"
+  ],
+  "NLCINDIA": [
+   "NIFTY POWER"
+  ],
+  "RAILTEL": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "INDUSTOWER": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "HFCL": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "OPTIEMUS": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "TEJASNET": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "IDEA": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "ITI": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "ROUTE": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "TATACOMM": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "BHARTIHEXA": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "TTML": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "STLTECH": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "BHARTIARTL": [
+   "NIFTY TELECOMMUNICATIONS"
+  ],
+  "NETWORK18": [
+   "NIFTY MEDIA"
+  ],
+  "ZEEL": [
+   "NIFTY MEDIA"
+  ],
+  "PVRINOX": [
+   "NIFTY MEDIA"
+  ],
+  "HATHWAY": [
+   "NIFTY MEDIA"
+  ],
+  "NAZARA": [
+   "NIFTY MEDIA"
+  ],
+  "SUNTV": [
+   "NIFTY MEDIA"
+  ],
+  "SAREGAMA": [
+   "NIFTY MEDIA"
+  ],
+  "PFOCUS": [
+   "NIFTY MEDIA"
+  ],
+  "DBCORP": [
+   "NIFTY MEDIA"
+  ],
+  "TIPSMUSIC": [
+   "NIFTY MEDIA"
+  ],
+  "ABREL": [
+   "NIFTY REALTY"
+  ],
+  "SOBHA": [
+   "NIFTY REALTY"
+  ],
+  "PHOENIXLTD": [
+   "NIFTY REALTY"
+  ],
+  "PRESTIGE": [
+   "NIFTY REALTY"
+  ],
+  "GODREJPROP": [
+   "NIFTY REALTY"
+  ],
+  "OBEROIRLTY": [
+   "NIFTY REALTY"
+  ],
+  "DLF": [
+   "NIFTY REALTY"
+  ],
+  "LODHA": [
+   "NIFTY REALTY"
+  ],
+  "ANANTRAJ": [
+   "NIFTY REALTY"
+  ],
+  "BRIGADE": [
+   "NIFTY REALTY"
+  ],
+  "LICHSGFIN": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "APTUS": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "AAVAS": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "CANFINHOME": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "AADHARHFC": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "INDIASHLTR": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "SAMMAANCAP": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "PNBHOUSING": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "HOMEFIRST": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "BAJAJHFL": [
+   "NIFTY HOUSING FINANCE"
+  ],
+  "ICICIGI": [
+   "NIFTY INSURANCE"
+  ],
+  "ICICIPRULI": [
+   "NIFTY INSURANCE"
+  ],
+  "SBILIFE": [
+   "NIFTY INSURANCE"
+  ],
+  "CANHLIFE": [
+   "NIFTY INSURANCE"
+  ],
+  "LICI": [
+   "NIFTY INSURANCE"
+  ],
+  "MFSL": [
+   "NIFTY INSURANCE"
+  ],
+  "GICRE": [
+   "NIFTY INSURANCE"
+  ],
+  "NIVABUPA": [
+   "NIFTY INSURANCE"
+  ],
+  "HDFCLIFE": [
+   "NIFTY INSURANCE"
+  ],
+  "NIACL": [
+   "NIFTY INSURANCE"
+  ],
+  "GODIGIT": [
+   "NIFTY INSURANCE"
+  ],
+  "STARHEALTH": [
+   "NIFTY INSURANCE"
+  ],
+  "THOMASCOOK": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "LENSKART": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "JUSTDIAL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "FIRSTCRY": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "DMART": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "MANYAVAR": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "SWIGGY": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "V2RETAIL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "VMART": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "AVL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "PWL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "SAMHI": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "TBOTEK": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "BLS": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "INDHOTEL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "CARTRADE": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "RBA": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "TRENT": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "CHALET": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "JSLL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "EIHOTEL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "TRAVELFOOD": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "IRCTC": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "URBANCO": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "SAPPHIRE": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "RTNINDIA": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "DEVYANI": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "MEDPLUS": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "NAUKRI": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "INDIAMART": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ARVINDFASN": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "WESTLIFE": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "EMIL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "NYKAA": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ETERNAL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "LEMONTREE": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ABLBL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "CRIZAC": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "JUBLFOOD": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "VMM": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ENTERO": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ITCHOTELS": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ABFRL": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "THELEELA": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "IXIGO": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "MEESHO": [
+   "NIFTY CONSUMER SERVICES"
+  ],
+  "ASTERDM": [
+   "NIFTY HOSPITALS"
+  ],
+  "MEDANTA": [
+   "NIFTY HOSPITALS"
+  ],
+  "NH": [
+   "NIFTY HOSPITALS"
+  ],
+  "PARKHOSPS": [
+   "NIFTY HOSPITALS"
+  ],
+  "YATHARTH": [
+   "NIFTY HOSPITALS"
+  ],
+  "AGARWALEYE": [
+   "NIFTY HOSPITALS"
+  ],
+  "JLHL": [
+   "NIFTY HOSPITALS"
+  ],
+  "HCG": [
+   "NIFTY HOSPITALS"
+  ],
+  "RAINBOW": [
+   "NIFTY HOSPITALS"
+  ],
+  "KIMS": [
+   "NIFTY HOSPITALS"
+  ]
+ }
+}

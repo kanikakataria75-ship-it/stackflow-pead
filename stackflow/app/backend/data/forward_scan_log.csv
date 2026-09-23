@@ -1,0 +1,1 @@
+scan_id,scanned_at,signal_id,symbol,company,industry,is_fin,taxonomy,basis,period_end,filing_timestamp,ts_source,event_day,planned_entry,planned_exit,pat,pat_prior_year,sue,n_prior_yoy,hist_events,q20,q40,q60,q80,quintile,turnover20_inr,last_close_inr,decision,reason,xbrl

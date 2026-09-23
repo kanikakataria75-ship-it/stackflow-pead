@@ -1,0 +1,111 @@
+{
+ "/indices/equity/sectoral-indices/nifty-auto": [
+  "ind_niftyautolist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-bank": [
+  "ind_niftybanklist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-capital-goods": [
+  "ind_niftyCapitalGoods_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-cement": [
+  "ind_NiftyCement_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-chemicals": [
+  "ind_niftyChemicals_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-commercial---transport-services": [
+  "ind_niftyCommercialTransportServices_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-construction": [
+  "ind_niftyConstruction_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-consumer-durables-index": [
+  "ind_niftyconsumerdurableslist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-consumer-services": [
+  "ind_niftyConsumerServices_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-financial--services-ex-bank": [
+  "ind_niftyfinancialservicesexbank_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-financial-services": [
+  "ind_niftyfinancelist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-financial-services-25-50-index": [
+  "ind_niftyfinancialservices25-50list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-financial-services-ex-bank": [],
+ "/indices/equity/sectoral-indices/nifty-fmcg": [
+  "ind_niftyfmcglist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-healthcare-index": [
+  "ind_niftyhealthcarelist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-hospitals": [
+  "ind_niftyHospitals_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-housing-finance": [
+  "ind_niftyHousingFinance_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-insurance": [
+  "ind_niftyInsurance_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-it": [
+  "ind_niftyitlist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-media": [
+  "ind_niftymedialist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-metal": [
+  "ind_niftymetallist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-midsmall--financial-services": [
+  "ind_niftymidsmallfinancailservice_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-midsmall--it-telecom": [
+  "ind_niftymidsmallitAndtelecom_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-midsmall-financial-services": [
+  "ind_niftymidsmallfinancailservice_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-midsmall-it-telecom": [
+  "ind_niftymidsmallitAndtelecom_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-midsmallhealthcare": [
+  "ind_niftymidsmallhealthcare_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-nbfc": [
+  "ind_niftyNBFC_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-oil-and-gas-index": [
+  "ind_niftyoilgaslist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-pharma": [
+  "ind_niftypharmalist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-power": [
+  "ind_niftyPower_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-private-bank": [
+  "ind_nifty_privatebanklist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-psu-bank": [
+  "ind_niftypsubanklist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-realty": [
+  "ind_niftyrealtylist.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-reits---realty": [
+  "ind_niftyREITsRealty_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-retail": [
+  "ind_niftyRetail_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty-telecommunications": [
+  "ind_niftyTelecommunications_list.csv"
+ ],
+ "/indices/equity/sectoral-indices/nifty500-healthcare": [
+  "ind_nifty500Healthcare_list.csv"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "reversal_years": [
+  1999,
+  2002,
+  2003,
+  2004,
+  2006,
+  2007,
+  2009,
+  2012,
+  2020
+ ],
+ "ic": {
+  "rows": 10594,
+  "symbols": 373,
+  "ctx_inferred": 0.4613932414574287,
+  "basis_switch_rate": 0.49865951742627346,
+  "dropped_after_switch": 339,
+  "never_switch_symbols": 187
+ },
+ "roe": {
+  "rows": 2202,
+  "symbols": 440,
+  "ctx_inferred": 0.6485013623978202,
+  "basis_switch_rate": 0.31136363636363634,
+  "dropped_after_switch": 196,
+  "never_switch_symbols": 303
+ }
+}

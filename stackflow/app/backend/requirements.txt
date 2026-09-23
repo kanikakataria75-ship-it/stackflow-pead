@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.29
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+yfinance>=0.2.40
+scipy>=1.11        # imported by the research SUE module's package
+pytest>=8          # tests

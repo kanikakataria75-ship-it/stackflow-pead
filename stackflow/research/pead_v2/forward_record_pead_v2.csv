@@ -1,0 +1,1 @@
+signal_id,symbol,period_end,filing_timestamp,event_day,sue_value,rolling_q80_threshold,is_taken,skip_reason,entry_date,entry_price,exit_date,exit_price,holding_sessions,gross_return,net_return,cost_deducted,nifty500_excess_return,univ_excess_return,status
